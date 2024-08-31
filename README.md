@@ -1,6 +1,6 @@
 # **Login System**
 
-This project is a simple **Login System** application written in C++. It allows users to create accounts, log in, and manage their account details. The application uses basic file handling to store and manage user information.
+This project is a **Login System** application written in C++. It allows users to create accounts, log in, and manage their account details. The application uses basic file handling to store and manage user information.
 
 ## **Features**
 
